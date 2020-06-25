@@ -1,4 +1,4 @@
-# Introduction of the 5G measurement tools and dataset
+# Introduction of 5G measurement tools and dataset
 ----------
 The tools and dataset released here is used to support the SIGCOMM2020 papaer *Understanding Operational 5G: A First Measurement Study on Its Coverage, Performance and Energy Consumption*
 

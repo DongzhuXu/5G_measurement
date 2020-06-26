@@ -4,7 +4,7 @@
 Our measurement toolset includes **common tools** (iperf3 [2], Wireshark [3], traceroute [4] and XCAL-Mobile [5]), along with **custom-developed tools**, i.e., 360TEL based on Insta360 ONEX’s open APIs [6] and pwrStrip [1]. We mainly introduce how to use XCAL-Mobile, 360TEL, and pwrStrip, while the usage instruction for other tools can be easily found on the Internet.
 
 ## XCAL-Mobile
-XCAL-Mobile can provide **5G (sub-6 band) and 4G (FDD/TDD) signaling information and physical-layer key performance indicators (KPIs)**. In our measurement testbed, we run XCAL-Mobile on a laptop tethered to the 5G-radio smartphone via a USB 3.0 cable. We use Dell G3 3779 laptop (Windows 10 x64, Intel Core i7 8th generation, 64GB RAM, 512GB SSD) and ZTE Axon10 Pro smartphone (Qualcomm Snapdragon TM855 + SDX 50M, 12GB RAM, 256GB HDD) in a 5G coverage region. 
+XCAL-Mobile can provide 5G (sub-6 band) and 4G (FDD/TDD) signaling information and physical-layer key performance indicators (KPIs). In our measurement testbed, we run XCAL-Mobile on a laptop tethered to the 5G-radio smartphone via a USB 3.0 cable. We use Dell G3 3779 laptop (Windows 10 x64, Intel Core i7 8th generation, 64GB RAM, 512GB SSD) and ZTE Axon10 Pro smartphone (Qualcomm Snapdragon TM855 + SDX 50M, 12GB RAM, 256GB HDD) in a 5G coverage region. 
 
 After a real-world 5G test, we can export log files (.drm/.drx) from XCAL-Mobile and then parse them in XCAP-Mobile. Note that XCAP-Mobile is a parser supporting XCAL-Mobile, from which we can get the statistic signaling information and KPIs. 
 

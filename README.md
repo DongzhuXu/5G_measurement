@@ -28,6 +28,6 @@ Our open source includes:
 **Note that please refer to the README.md in each folder for detailed tutorials on using the measurement tools and dataset.**
 
 # Statement
-The ownership of this dataset belongs to our team, and researchers should indicate the source-link when using it.
+Please indicate the source-link when using it and cite our SIGCOMM paper.
 Also, please contact 
 **xdz9601@bupt.edu.cn** for any questions. We will provide you with as detailed answers as possible.

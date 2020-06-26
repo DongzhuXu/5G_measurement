@@ -19,9 +19,9 @@ Our open source includes:
 	
 	(iii) Power traces from pwrStrip, which are utilized in Sec. 6("5G smartphone energy consumption").
 
-**Note that please refer to the README.md in each sub-folder for detailed tutorials on the measurement tools and dataset.**
+**Please refer to README.md in the folder (measurement tools/measurement dataset) for detailed user tutorials.**
 
 # Statement
 Please indicate the source-link when using it and cite our SIGCOMM paper.
-Also, please contact 
+In addition, please contact 
 **xdz9601@bupt.edu.cn** for any questions. We will provide detailed answers as soon as possible.

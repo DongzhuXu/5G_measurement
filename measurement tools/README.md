@@ -8,7 +8,7 @@ XCAL-Mobile can provide 5G (sub-6 band) and 4G (FDD/TDD) signaling information a
 
 After a real-world 5G test, we can export log files (.drm/.drx) from XCAL-Mobile and then parse them in XCAP-Mobile. Note that XCAP-Mobile is a parser supporting XCAL-Mobile, from which we can get the statistic signaling information and KPIs. 
 
-Besides, XCAL-Mobile and XCAP-Mobile are commercial software, which involves some monetary cost. You can click the link **https://accuver.com** to download them and apply for the license.
+Besides, XCAL-Mobile and XCAP-Mobile are commercial software, which involves some monetary cost. You can click the link **http://accuver.com/acv_products/xcal-mobile** and **http://accuver.com/acv_products/xcal/** to download them and apply for the license.
 
 ## 360TEL
 360TEL [11] is an end-to-end ultra-HD panoramic video Android APP. We develop the video system based on the Insta360 ONEX’s APIs, which support video encoding/decoding mode switching (hardware or software coder), video resolution and other parameter configurations. 
@@ -31,7 +31,7 @@ Given that the Linux kernel of Android can record the power information (voltage
 
 [4] amatsuda, “traceroute,” https://github.com/amatsuda/traceroute, 2018.
 
-[5] X. org., “Xcal,” https://accuver.com, 2019.
+[5] X. org., “Xcal,” http://accuver.com/acv_products/xcal/, 2019.
 
 [6] I. team, “Insta360 onex api.” https://www.insta360.com/download/insta360-onex, 2019.
 
